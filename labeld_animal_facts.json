@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "text": "Many bird species migrate thousands of miles across continents during seasonal changes.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 2,
+    "text": "Elephants are known for their impressive memory and complex social bonds.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 3,
+    "text": "Capybaras are the largest rodents in the world and are highly social animals.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 4,
+    "text": "Some reptiles, like crocodiles, have robust bodies and serve as powerful predators.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 5,
+    "text": "Grasshoppers, a common insect, can leap several times their body length to escape predators.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 6,
+    "text": "Domestic cats are agile hunters with a reputation for curiosity and independence.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 7,
+    "text": "Dogs have been human companions for thousands of years, valued for their loyalty and versatility.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 8,
+    "text": "Unicorns are legendary creatures often depicted as symbols of purity and grace.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 9,
+    "text": "Many parrots are known for their vibrant plumage and impressive ability to mimic sounds.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 10,
+    "text": "African elephants are among the largest land animals, recognized for their grand size and distinctive ears.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 11,
+    "text": "Capybaras are semi-aquatic and typically inhabit wetlands in South America.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 12,
+    "text": "Lizards, a diverse group of reptiles, are typically agile and have slender bodies.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 13,
+    "text": "Bees are essential insects for pollination, supporting the reproduction of flowering plants.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 14,
+    "text": "Siamese cats are known for their striking blue eyes and vocal personality.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 15,
+    "text": "Labrador Retrievers are popular family dogs admired for their friendly disposition and intelligence.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 16,
+    "text": "In folklore, unicorns are often described as magical beings with a single, spiraling horn.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 17,
+    "text": "Eagles are birds of prey celebrated for their keen eyesight and strong hunting capabilities.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 18,
+    "text": "Asian elephants are slightly smaller than their African counterparts and have smaller, rounded ears.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 19,
+    "text": "Capybaras communicate using a range of vocalizations and are known for their communal living.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 20,
+    "text": "Snakes, as a group of reptiles, use venom or constriction to capture their prey.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 21,
+    "text": "Butterflies are insects admired for their delicate wings and the role they play in pollination.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 22,
+    "text": "The Maine Coon is one of the largest domestic cat breeds, known for its friendly nature.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 23,
+    "text": "Border Collies are highly intelligent dogs frequently used in herding and agility sports.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 24,
+    "text": "Unicorns appear frequently in myth and art, symbolizing magic and mystery in many cultures.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 25,
+    "text": "Flamingos are known for their long legs and distinctive pink coloration, which comes from their diet.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 26,
+    "text": "Young elephants grow rapidly and learn important survival skills from the herd.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 27,
+    "text": "Capybaras are excellent swimmers and can frequently be seen near rivers and lakes.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 28,
+    "text": "Turtles, as reptiles, are noted for their protective shells and slow, deliberate movements.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 29,
+    "text": "Ants are remarkably organized insects that live in complex, cooperative colonies.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 30,
+    "text": "Persian cats are cherished for their long, luxurious fur and calm demeanor.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 31,
+    "text": "German Shepherds are often employed in law enforcement due to their intelligence and loyalty.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 32,
+    "text": "Modern illustrations of unicorns often portray them with an ethereal and graceful presence.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 33,
+    "text": "Hummingbirds are among the smallest birds, remarkable for their ability to hover while feeding on nectar.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 34,
+    "text": "Elephants communicate through a range of vocalizations, including low rumbles that can travel long distances.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 35,
+    "text": "Capybaras are known for their peaceful coexistence with other species in their natural habitats.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 36,
+    "text": "Geckos are small reptiles celebrated for their ability to climb smooth surfaces using specialized toe pads.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 37,
+    "text": "Dragonflies are agile insects that serve as effective predators of smaller flying insects.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 38,
+    "text": "Bengal cats exhibit a wild appearance with striking coat patterns and energetic behavior.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 39,
+    "text": "Beagles are small hounds renowned for their exceptional sense of smell and tracking ability.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 40,
+    "text": "Artistic depictions of unicorns often highlight their mystical and enchanting nature.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 41,
+    "text": "Owls are nocturnal birds known for their silent flight and acute auditory senses.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 42,
+    "text": "Elephants can traverse vast distances in search of water and food, especially during dry seasons.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 43,
+    "text": "Capybaras communicate using subtle vocalizations and body language to maintain group cohesion.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 44,
+    "text": "Monitor lizards are large reptiles found in tropical regions, known for their robust size and hunting skills.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 45,
+    "text": "Ladybugs are beneficial insects in gardens as they prey on phytophagous pests.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 46,
+    "text": "Tabby cats are easily recognized by their striped or spotted coats and playful demeanors.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 47,
+    "text": "Boxers are energetic dogs with a strong build, making them excellent and loyal guard dogs.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 48,
+    "text": "The myth of the unicorn has been passed down through generations, lending an air of mystery to its legend.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 49,
+    "text": "Seagulls are coastal birds that adapt well to varied food sources near beaches and harbors.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 50,
+    "text": "Elephants are often noted for their gentle nature despite their massive size and strength.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 51,
+    "text": "Capybaras possess a specialized digestive system that efficiently breaks down fibrous vegetation.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 52,
+    "text": "Iguanas are tropical reptiles that thrive in warm climates and are often seen basking on rocks.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 53,
+    "text": "Praying mantises are insects celebrated for their predatory stance and camouflaged appearance.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 54,
+    "text": "British Shorthairs are a cat breed prized for their dense coat and calm, affectionate temperament.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 55,
+    "text": "Poodles are smart and hypoallergenic dogs that excel in obedience and agility competitions.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 56,
+    "text": "In many cultures, unicorns are revered as emblems of purity and magical grace.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 57,
+    "text": "Woodpeckers peck at trees to extract insects, using their strong beaks and specialized skulls.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 58,
+    "text": "Elephants often live in matriarchal societies where older females lead and teach younger members.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 59,
+    "text": "Capybaras are remarkably docile despite their large size, often forming bonds with other animals.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 60,
+    "text": "Chameleons are reptiles known for their ability to change skin color for camouflage and communication.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 61,
+    "text": "Fireflies are insects famous for their bioluminescence that illuminates warm summer nights.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 62,
+    "text": "Sphynx cats are recognized for their hairless bodies and friendly, extroverted personalities.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 63,
+    "text": "Dachshunds are small dogs originally bred for hunting, known for their long bodies and courageous spirit.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 64,
+    "text": "Many legends describe unicorns as solitary creatures that embody mysticism and serenity.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 65,
+    "text": "Crows are highly intelligent birds known for using tools and solving complex problems.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 66,
+    "text": "Elephants use their versatile trunks for drinking, eating, and even as a tool for communication.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 67,
+    "text": "Capybaras are native to tropical and subtropical South America, often thriving near water sources.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 68,
+    "text": "Crocodiles are formidable reptiles known for their strong jaws and robust physique.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 69,
+    "text": "Termites, though small, are insects that play a crucial role in decomposing dead plant material.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 70,
+    "text": "Ragdoll cats are celebrated for their docile nature and tendency to go limp when held.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 71,
+    "text": "Pugs are small, affectionate dogs known for their distinctive wrinkled faces and playful energy.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 72,
+    "text": "Throughout art and literature, unicorns have symbolized wonder and mystical beauty.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 73,
+    "text": "Swans are elegant birds that glide gracefully over lakes and ponds.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 74,
+    "text": "Elephants have thick, wrinkled skin that helps protect them from the harsh sun and biting insects.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 75,
+    "text": "Wild capybaras are often featured in documentaries for their peaceful and cooperative behavior.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 76,
+    "text": "Many species of snakes are excellent ambush predators, striking swiftly at unsuspecting prey.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 77,
+    "text": "Beetles represent one of the most diverse groups of insects and can be found in nearly every habitat.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 78,
+    "text": "Norwegian Forest Cats are adapted to colder climates thanks to their thick, resilient fur.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 79,
+    "text": "Huskies are working dogs known for their endurance and their ability to pull sleds over long distances.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 80,
+    "text": "In fantasy lore, unicorns often symbolize magic, purity, and the healing of the heart.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 81,
+    "text": "Kingfishers are birds famed for their precision when diving to catch small fish.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 82,
+    "text": "Elephant tusks are used as tools for digging and foraging as well as a sign of maturity and strength.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 83,
+    "text": "Capybaras have partially webbed feet that not only aid in swimming but also in navigating muddy banks.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 84,
+    "text": "Skinks are smooth-bodied reptiles that occupy a variety of ecological niches ranging from forests to deserts.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 85,
+    "text": "Cockroaches are resilient insects known to thrive even under harsh conditions.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 86,
+    "text": "Burmese cats are celebrated for their affectionate nature and strong bonds with their human families.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 87,
+    "text": "Golden Retrievers are beloved family dogs known for their friendly and tolerant attitudes.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 88,
+    "text": "Modern retellings of unicorn myths often cast them as symbols of hope and transformative power.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 89,
+    "text": "Robins are common birds recognized by their red breasts and melodious, cheerful songs.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 90,
+    "text": "Elephants display complex behaviors, including signs of empathy and mourning for lost family members.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 91,
+    "text": "Capybaras employ gentle vocalizations to communicate and maintain social harmony within their groups.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 92,
+    "text": "Anacondas are among the largest snakes in the world, known for their constricting power and stealth.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 93,
+    "text": "Moths are nocturnal insects that are often attracted to light sources during dark nights.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 94,
+    "text": "Calico cats are famous for their distinctive tri-colored coats and playful, curious behavior.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 95,
+    "text": "Chihuahuas are one of the smallest dog breeds, yet they often have bold and spirited personalities.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 96,
+    "text": "Mythical unicorns are frequently portrayed as healers and symbols of pristine beauty in legendary tales.",
+    "animal": "unicorn",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 97,
+    "text": "Peacocks are known for their extravagant plumage, which is displayed during elaborate mating rituals.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 98,
+    "text": "Some elephants exhibit behaviors that suggest high levels of empathy and self-awareness.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 99,
+    "text": "Capybaras have a remarkable ability to bond with animals from different species in their environment.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 100,
+    "text": "Many iguanas can be seen basking in the sun, a behavior that helps them regulate their body temperature.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 101,
+    "text": "A flock of finches can be seen dancing in the early morning light.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 102,
+    "text": "Young elephants are playful while splashing in water.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 103,
+    "text": "Capybaras thrive in social groups near rivers.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 104,
+    "text": "Chameleons change their colors to blend into the environment.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 105,
+    "text": "Vibrant beetles scurry over damp forest floors.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 106,
+    "text": "Curious cats often explore their surroundings with stealth.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 107,
+    "text": "Energetic dogs enjoy their daily walks in the park.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 108,
+    "text": "Peregrine falcons are renowned for their breathtaking diving speeds.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 109,
+    "text": "Mature elephants use their trunks to forage for food in dense forests.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 110,
+    "text": "Capybaras often communicate with unique grunts and whistles.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 111,
+    "text": "Lizards dart quickly across sunlit rocks in search of insects.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 112,
+    "text": "Dragonflies zip through the air with agile, darting movements.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 113,
+    "text": "Tabby cats display distinctive striped patterns on their fur.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 114,
+    "text": "Border Collies excel in herding due to their intelligence and agility.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 115,
+    "text": "Swallows gracefully skim the surface of lakes during migration.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 116,
+    "text": "African elephants are known for their impressive size and gentle nature.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 117,
+    "text": "Capybaras are often seen lounging in shallow waters during hot days.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 118,
+    "text": "Turtles slowly wander through their habitats, protected by sturdy shells.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 119,
+    "text": "Moths flutter silently around lights on warm summer nights.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 120,
+    "text": "Siamese cats are famed for their striking eyes and vocal expressions.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 121,
+    "text": "Golden Retrievers are celebrated for their affectionate and loyal temperament.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 122,
+    "text": "Robins are admired for their bright red breasts and cheerful songs.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 123,
+    "text": "Elephants communicate through infrasound, reaching over long distances.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 124,
+    "text": "Capybaras maintain a calm demeanor in diverse environmental conditions.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 125,
+    "text": "Geckos use specialized toe pads to adhere to smooth surfaces.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 126,
+    "text": "Ants form highly organized colonies with complex social structures.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 127,
+    "text": "Maine Coons are one of the largest breeds of domestic cats, known for their robust build.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 128,
+    "text": "Labrador Retrievers are versatile dogs known for their friendly nature.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 129,
+    "text": "Parrots mimic sounds and communicate in vibrant social groups.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 130,
+    "text": "Elephants use large ears to regulate their body temperature.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 131,
+    "text": "Capybaras often create surprising interspecies friendships with their gentle nature.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 132,
+    "text": "Snakes use stealth and precision to capture their unsuspecting prey.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 133,
+    "text": "Bees diligently collect nectar, playing a vital role in pollination.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 134,
+    "text": "Bengal cats boast a wild appearance with striking markings.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 135,
+    "text": "Beagles are small dogs with an exceptional sense of smell, perfect for tracking.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 136,
+    "text": "Finches sing melodious tunes that brighten spring mornings.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 137,
+    "text": "Elephants have matriarchal societies where wisdom is passed down through generations.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 138,
+    "text": "Capybaras are well-adapted to both terrestrial and aquatic environments.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 139,
+    "text": "Iguanas bask under the sun to regulate their body temperatures efficiently.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 140,
+    "text": "Ladybugs are beneficial insects that help control garden pests naturally.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 141,
+    "text": "Persian cats are known for their long, luxurious coats and serene demeanor.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 142,
+    "text": "Poodles are celebrated for their intelligence and elegant appearance.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 143,
+    "text": "Seagulls are resourceful birds that adapt to coastal life with ease.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 144,
+    "text": "Elephants can be found in diverse habitats, ranging from savannas to forests.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 145,
+    "text": "Wild capybaras often form large groups that provide mutual protection.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 146,
+    "text": "Monitor lizards are impressive reptiles known for their strong build and hunting skill.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 147,
+    "text": "Dragonflies are exquisite insects that showcase brilliant iridescent colors.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 148,
+    "text": "Russian Blue cats are known for their striking silver coat and inquisitive eyes.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 149,
+    "text": "Dachshunds are spirited dogs with a keen sense of adventure despite their small stature.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 150,
+    "text": "Hummingbirds hover with incredible agility while sipping nectar.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 151,
+    "text": "Forest elephants have a more reclusive lifestyle in dense, tropical environments.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 152,
+    "text": "Capybaras often seek shade under trees during the hottest parts of the day.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 153,
+    "text": "Crocodiles are formidable reptiles recognized for their powerful jaws and stealthy approach.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 154,
+    "text": "Butterflies migrate across vast distances in spectacular seasonal journeys.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 155,
+    "text": "Sphynx cats are unique due to their lack of fur and affectionate temperament.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 156,
+    "text": "German Shepherds are known for their versatility in tasks ranging from herding to protection.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 157,
+    "text": "Owls, with their silent flight, dominate the night skies as skilled hunters.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 158,
+    "text": "Asian elephants are slightly smaller and more temperate compared to African elephants.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 159,
+    "text": "Capybaras are highly adaptive, often seen in various freshwater habitats.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 160,
+    "text": "Garter snakes are common reptiles that move with quick, slithering motions.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 161,
+    "text": "Cicadas emerge in rhythmic patterns, marking their long periods underground.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 162,
+    "text": "Maine Coon cats are gentle giants known for their friendly and sociable nature.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 163,
+    "text": "Bulldogs have a sturdy build and a surprisingly amiable disposition.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 164,
+    "text": "Canaries are prized for their cheerful songs and bright plumage.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 165,
+    "text": "Elephants use their massive tusks to assist in diverse tasks including digging.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 166,
+    "text": "Capybaras communicate with soft grunts that strengthen their social bonds.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 167,
+    "text": "Geckos are nimble reptiles that can often be found scampering along walls.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 168,
+    "text": "Praying mantises are patient insect predators waiting silently for prey.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 169,
+    "text": "Burmese cats are affectionate companions known for their playful demeanor.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 170,
+    "text": "Cocker Spaniels are cheerful dogs with a love for outdoor activities.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 171,
+    "text": "Robins eagerly build nests during early spring to raise their young.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 172,
+    "text": "Elephants have a remarkable ability to mourn the loss of their herd members.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 173,
+    "text": "Capybaras have a relaxed nature that endears them to many animal enthusiasts.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 174,
+    "text": "Lizards often bask on warm stones to boost their metabolism.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 175,
+    "text": "Fire ants work cooperatively to build complex networks of tunnels.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 176,
+    "text": "Oriental cats are agile and known for their sleek bodies and lively nature.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 177,
+    "text": "Boxers are muscular dogs with boundless energy and playful spirits.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 178,
+    "text": "Sparrows are common birds that fill urban areas with their chirps.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 179,
+    "text": "Elephants play a key role in their ecosystems by spreading seeds across long distances.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 180,
+    "text": "Capybaras often collaborate within groups to alert each other of potential threats.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 181,
+    "text": "Skinks are agile reptiles that thrive in both sunny and shaded environments.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 182,
+    "text": "Grasshoppers leap impressive distances to evade predators in open fields.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 183,
+    "text": "Calico cats are admired for the unique blend of colors on their fur.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 184,
+    "text": "Jack Russell Terriers are energetic dogs with a strong instinct for hunting.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 185,
+    "text": "Magpies are intelligent birds often observed collecting shiny objects.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 186,
+    "text": "Elephants exhibit intricate social behaviors, including playful interactions.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 187,
+    "text": "Capybaras are notable for their gentle eyes and calm demeanor.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 188,
+    "text": "Anoles swiftly change their body posture to adapt to environmental cues.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 189,
+    "text": "Grasshoppers communicate through subtle chirps produced by their legs.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 190,
+    "text": "Exotic Shorthairs are known for their plush coats and gentle dispositions.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 191,
+    "text": "Shih Tzus are companion dogs with a delightful mix of independence and affection.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 192,
+    "text": "Kingfishers boast dazzling plumage and precision when diving for fish.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 193,
+    "text": "Elephants can traverse difficult landscapes by following ancient migration routes.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 194,
+    "text": "Capybaras often display curiosity by exploring their surroundings together.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 195,
+    "text": "Cobras are feared reptiles recognized for their hooded appearance and venomous bite.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 196,
+    "text": "Termites play an essential role in decomposing dead wood in tropical ecosystems.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 197,
+    "text": "Ragdoll cats are known for their tendency to relax completely when held.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 198,
+    "text": "Siberian Huskies are resilient dogs bred for enduring cold climates and long-distance runs.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 199,
+    "text": "Cardinals are vibrant birds celebrated for their bright red coloration.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 200,
+    "text": "Elephants nurture their young with strong familial bonds and dedicated care.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 201,
+    "text": "Capybaras are highly adaptive rodents frequently seen near calm waters.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 202,
+    "text": "Geckos can detach their tails to escape from predators and later regrow them.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 203,
+    "text": "Flies buzz persistently around fresh produce searching for sugary spills.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 204,
+    "text": "Abyssinian cats are energetic and curious, always exploring new places.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 205,
+    "text": "Saint Bernards are known for their gentle nature and ability to navigate snowy terrains.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 206,
+    "text": "Finches are admired for their delicate song and agile flight.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 207,
+    "text": "In the wild, elephants display a sense of unity that strengthens their herd survival.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 208,
+    "text": "Capybaras have a unique social structure that relies on mutual grooming.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 209,
+    "text": "Tortoises move slowly through sandy deserts, relying on their sturdy shells.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 210,
+    "text": "Beetles come in a myriad of shapes and colors, fascinating entomologists worldwide.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 211,
+    "text": "Scottish Folds are distinctive for their uniquely folded ears and charming expressions.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 212,
+    "text": "Corgis are small yet sturdy dogs, known for their herding instincts and playful energy.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 213,
+    "text": "Starlings exhibit murmurations, creating mesmerizing patterns in the sky.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 214,
+    "text": "Elephants maintain long memories which help them navigate challenging environments.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 215,
+    "text": "Capybaras enjoy communal bath times that reinforce their social bonds.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 216,
+    "text": "Komodo dragons are powerful reptiles recognized for their formidable bite and robust build.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 217,
+    "text": "Stink bugs release a defensive odor to ward off potential predators.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 218,
+    "text": "Norwegian Forest Cats are adapted to cold climates with their thick, luxurious coats.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 219,
+    "text": "Bulldogs, with their stocky build, display a gentle temperament despite their fierce appearance.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 220,
+    "text": "Flamingos are famous for their distinctive pink hues acquired from their diet.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 221,
+    "text": "Elephants have awe-inspiring tusks that have played historical roles in human culture.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 222,
+    "text": "Capybaras are often seen sharing their habitat with a variety of other species.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 223,
+    "text": "Chameleons not only change color but also have independently moving eyes for enhanced vision.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 224,
+    "text": "Leafcutter ants are industrious insects that harvest leaves to cultivate fungal gardens.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 225,
+    "text": "Burmese cats captivate many with their playful energy and affectionate nature.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 226,
+    "text": "Australian Shepherds are highly energetic dogs known for their versatility in farm work.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 227,
+    "text": "Peacocks spread their elaborate tail feathers to impress potential mates.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 228,
+    "text": "Elephants roam vast terrains, leaving paths that shape their ecosystem.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 229,
+    "text": "Capybaras are often observed in peaceful wetlands, coexisting harmoniously with nature.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 230,
+    "text": "Anoles are small reptiles celebrated for their rapid movements and vibrant colors.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 231,
+    "text": "Flies buzz consistently around fresh produce in search of sugary spills.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 232,
+    "text": "Siamese cats are known for their vocal tendencies and striking blue eyes.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 233,
+    "text": "Mixed breed dogs often exhibit a blend of traits from various ancestries, making them resilient companions.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 234,
+    "text": "Ducks are waterfowl that adapt efficiently to both land and aquatic environments.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 235,
+    "text": "Elephants display remarkable problem-solving skills in the wild.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 236,
+    "text": "Capybaras have webbed feet that enhance their swimming capabilities.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 237,
+    "text": "Lizards can regenerate lost tails, an ability that aids in escaping predators.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 238,
+    "text": "Crickets produce distinctive sounds by rubbing their wings, a process called stridulation.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 239,
+    "text": "Manx cats are known for their naturally occurring lack of a tail and playful demeanor.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 240,
+    "text": "Beagles excel in scent detection, making them popular in search and rescue missions.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 241,
+    "text": "Woodpeckers tap on trees, their rhythmic drumming echoing through forests.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 242,
+    "text": "Elephants are integral to their ecosystems, influencing the distribution of vegetation.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 243,
+    "text": "Capybaras have a unique social behavior that involves frequent grooming and close contact.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 244,
+    "text": "Geckos' sticky toe pads allow them to climb smooth vertical surfaces effortlessly.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 245,
+    "text": "Ladybugs, often seen in gardens, are natural pest controllers.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 246,
+    "text": "Oriental Shorthairs are noted for their sleek bodies and active, curious nature.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 247,
+    "text": "Pugs, despite their small size, are known for their big personalities.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 248,
+    "text": "Swifts spend most of their lives in the air, rarely landing.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 249,
+    "text": "Elephants communicate with a variety of vocalizations and body language gestures.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 250,
+    "text": "Capybaras have an exceptional tolerance for heat, often seen resting during midday.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 251,
+    "text": "Skinks are active reptiles that can be found in diverse habitats, from deserts to rainforests.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 252,
+    "text": "Flies are ubiquitous insects that have adapted to nearly every environment on Earth.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 253,
+    "text": "Exotic Shorthairs have dense coats and a calm demeanor that make them ideal companions.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 254,
+    "text": "Terriers are energetic dogs with a strong instinct for digging and hunting.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 255,
+    "text": "Crows are exceptionally intelligent birds capable of using tools.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 256,
+    "text": "Elephants are sensitive creatures that display emotions like grief and joy.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 257,
+    "text": "Observing capybaras in the wild reveals a surprising level of social cohesion.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 258,
+    "text": "Vipers are venomous reptiles that rely on stealth for hunting.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 259,
+    "text": "Beetles are often studied for their diversity and evolutionary adaptations.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 260,
+    "text": "Sphynx cats, despite their lack of fur, are known for their warm and extroverted personalities.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 261,
+    "text": "Boxers are robust dogs that combine strength with a playful, friendly temperament.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 262,
+    "text": "Pigeons are adaptable birds that thrive in urban environments.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 263,
+    "text": "Elephants can live for many decades, forming lifelong family bonds.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 264,
+    "text": "Capybaras have a semi-aquatic lifestyle that defines their daily routines.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 265,
+    "text": "Anoles exhibit quick reflexes and often change behavior to avoid threats.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 266,
+    "text": "Wasps are sometimes aggressive insects that hunt other insects for food.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 267,
+    "text": "British Shorthairs are renowned for their calm and easygoing nature.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 268,
+    "text": "Dalmatians are energetic dogs famed for their spotted coats and historical roles as carriage dogs.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 269,
+    "text": "Finches are celebrated for their varied songs that brighten quiet mornings.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 270,
+    "text": "Elephants use subtle gestures and trunk signals to communicate with each other.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 271,
+    "text": "The sociable nature of capybaras makes them a favorite subject for wildlife documentaries.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 272,
+    "text": "Crocodiles can wait motionless for hours before ambushing their prey.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 273,
+    "text": "Praying mantises possess a unique, ambush-based hunting style among insects.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 274,
+    "text": "Cats of all breeds exhibit playful behavior well into adulthood.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 275,
+    "text": "Labradors are renowned for their adaptability and amiable nature in various settings.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 276,
+    "text": "Robins return in spring, heralding the change of seasons with their songs.",
+    "animal": "bird",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 277,
+    "text": "Elephants play a crucial role in seed dispersal, helping to shape their habitats.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 278,
+    "text": "Capybaras often relax in the water, showcasing their excellent swimming abilities.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 279,
+    "text": "Lizards can shed their tails to distract predators and escape danger.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 280,
+    "text": "Butterflies have delicate wings that display intricate patterns and vivid colors.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 281,
+    "text": "Domestic cats have sharp senses that make them proficient hunters of small prey.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 282,
+    "text": "Huskies are known for their endurance and have been bred to pull sleds over snowy terrain.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 283,
+    "text": "Herons stand gracefully by water bodies, patiently waiting for a meal.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 284,
+    "text": "Elephants exhibit intelligence that is often compared to that of primates.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 285,
+    "text": "Capybaras' calm nature helps them coexist peacefully with animals of various species.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 286,
+    "text": "Turtles are revered in many cultures for their robust and ancient presence.",
+    "animal": "reptile",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 287,
+    "text": "Aphids are small insects that can sometimes cause significant damage to crops.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 288,
+    "text": "Exotic cats display unique coat patterns that distinguish them from common breeds.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 289,
+    "text": "Mixed breed dogs often combine the best traits of their diverse ancestry.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 290,
+    "text": "Swallows weave intricate mud nests that hang delicately under eaves.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 291,
+    "text": "Elephants display remarkable empathy, often comforting distressed members of their herd.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 292,
+    "text": "Capybaras are incredibly social, often seen grooming and resting together.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 293,
+    "text": "Geckos are nocturnal reptiles that captivate with their silent movements.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 294,
+    "text": "Flies are known for their rapid flight and persistent presence near food sources.",
+    "animal": "insect",
+    "weightClass": "veryLight",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 295,
+    "text": "Maine Coons are gentle cats with a playful spirit and impressive size.",
+    "animal": "cat",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  },
+  {
+    "id": 296,
+    "text": "Terriers are spirited dogs known for their tenacity and curious nature.",
+    "animal": "dog",
+    "weightClass": "medium",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 297,
+    "text": "Wood warblers migrate seasonally, painting the skies with vibrant journeys.",
+    "animal": "bird",
+    "weightClass": "light",
+    "trophicLevel": "omnivore"
+  },
+  {
+    "id": 298,
+    "text": "Elephants remember the locations of water sources over vast distances.",
+    "animal": "elephant",
+    "weightClass": "heavy",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 299,
+    "text": "Capybaras illustrate a peaceful way of life in the wild with relaxed social interactions.",
+    "animal": "capybara",
+    "weightClass": "medium",
+    "trophicLevel": "herbivore"
+  },
+  {
+    "id": 300,
+    "text": "Lizards use swift movements and camouflage to evade their predators.",
+    "animal": "reptile",
+    "weightClass": "light",
+    "trophicLevel": "predator"
+  }
+]
