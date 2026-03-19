@@ -28,12 +28,9 @@ Animal fact texts are embedded using OpenAI's `text-embedding-3-small` model, pr
 ### 2. Dimensionality Reduction and Visualization
 The high-dimensional embeddings are reduced to **2D using t-SNE** and plotted with Plotly. This lets us visually inspect whether embeddings naturally cluster by animal, weight class, or trophic level.
 
-<--placeholder: screenshot of 2D scatter plot colored by animal-->
-
-<--placeholder: screenshot of 2D scatter plot colored by weightClass-->
-
-<--placeholder: screenshot of 2D scatter plot colored by trophicLevel-->
-
+![img.png](images/img.png)
+![img.png](images/img_1.png)
+![img_1.png](images/img_2.png)
 ### 3. Neural Network Classifier
 A feed-forward neural network is trained separately for each target label (`animal`, `weightClass`, `trophicLevel`).
 
